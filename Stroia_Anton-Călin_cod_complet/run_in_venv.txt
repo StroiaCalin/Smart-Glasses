@@ -1,0 +1,4 @@
+source /home/calin/tflite39/bin/activate
+cd /home/calin/Descărcări
+python myscript.py
+exec bash
